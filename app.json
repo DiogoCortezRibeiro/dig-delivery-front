@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dig-delivery-front",
+    "slug": "dig-delivery-front",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dig-delivery-front"
+}
